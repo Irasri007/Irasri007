@@ -1,6 +1,6 @@
 ## Hi, I’m Ira 👋
 
-🎓 2nd Year B.Tech Computer Science Engineering student  
+🎓 3rd Year B.Tech Computer Science Engineering student  
 💻 Passionate about Python, Backend & Web Development  
 🌱 Aspiring Google Summer of Code (GSoC) contributor  
 📍 India
